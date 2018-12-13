@@ -1,2 +1,2 @@
 # media
-myself media
+it is a video media player
